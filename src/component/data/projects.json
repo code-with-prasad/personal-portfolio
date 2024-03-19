@@ -12,8 +12,8 @@
       "title": "Personal Portfolio",
       "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAuI_fTXw7lWgyfNzNWZRUdfmaQVMClAlHg&s",
       "description": "This is a project made with complete React js.",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://personal-portfolio-flame-gamma-73.vercel.app/",
+      "source": "https://github.com/code-with-prasad/personal-portfolio"
     },
     {
       "key": 3,
