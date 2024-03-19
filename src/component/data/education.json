@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "BCA (Bachelor of Computer Application)",
+      "college": "Imperial College, Berhampur",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "location" : "Berhampur",
+      "imageSrc": "college.jpg"
+    },
+    {
+      "id": 2,
+      "name": "MERN Stack Development",
+      "college": "Naresh i Technologies",
+      "startDate": "Aug, 2023",
+      "endDate": "Continue",
+      "location" : "Hyderbad",
+      "imageSrc": "nareshit.png"
+    }
+  ]
